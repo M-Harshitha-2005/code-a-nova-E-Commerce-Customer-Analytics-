@@ -1,16 +1,24 @@
-# 📊 RetailMind Analytics
-#### AI-Powered E-Commerce Customer Intelligence Platform
+# RetailMind Analytics
+#### Transforming Retail Data into Actionable Business Insights
 <p align="center">
 Transforming retail transaction data into meaningful business intelligence through interactive dashboards, customer analytics, machine learning, and strategic business storytelling.
 </p>
 <p align="center">
+        
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-2E8B57?style=for-the-badge)
+
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=for-the-badge&logo=plotly)
+
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn)
+
 </p>
+
 ## Abstract
 RetailMind Analytics is an end-to-end Business Intelligence and Customer Analytics platform developed to help organizations understand customer purchasing behaviour and convert raw retail transaction data into actionable business insights.
 The project integrates Data Analytics, Machine Learning, Business Intelligence, Customer Segmentation, Churn Analysis, Product Recommendation, and Interactive Storytelling into a unified Streamlit application. Rather than presenting static reports, the platform enables users to explore business performance dynamically through interactive dashboards, intelligent visualizations, and data-driven recommendations.
