@@ -176,6 +176,7 @@ Business Story Insights
 ## Machine Learning Pipeline
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/20b8893d-ec23-47f2-b1f7-f5abb925ab6b" />
+
 ## Project Architecture
 
 ### System Architecture
