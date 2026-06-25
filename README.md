@@ -174,12 +174,17 @@ Interactive Streamlit Dashboard
 Business Story Insights
 ```
 ## Machine Learning Pipeline
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/20b8893d-ec23-47f2-b1f7-f5abb925ab6b" />
 ## Project Architecture
+
 ### System Architecture
+
 <img width="1678" height="937" alt="image" src="https://github.com/user-attachments/assets/fe31c434-c807-4c7e-aa7f-eb71261e1042" />
 ### Technical Architecture
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e5178b0-508f-4ead-bc43-a8374798e1e3" />
+
 ## Project Structure
 ```
 RetailMind Analytics/
